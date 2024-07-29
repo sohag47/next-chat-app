@@ -1,0 +1,3 @@
+Any type declare = TProduct;
+Any Interface Declare = IProduct
+Any Reusable component declare = RProductCard
